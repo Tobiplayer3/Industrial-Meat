@@ -51,7 +51,7 @@ repositories {
 	}
 	maven {
 		name = "TeslaCoreLib Maven"
-		url = "http://maven.modcrafters.net"
+		url = "http://maven.mcmoddev.com"
 	}
 	maven {
 		name = "Shadowfacts Maven"
@@ -60,7 +60,7 @@ repositories {
 }
 
 dependencies {
-	deobfCompile "com.buuz135.industrial.IndustrialForegoing:industrialforegoing:1.12.1-1.+"
+	deobfCompile "com.buuz135.industrial.IndustrialForegoing:industrialforegoing:1.12.2-1.+"
 	deobfCompile "net.shadowfacts:Forgelin:1.5.1"
 }
 
